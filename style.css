@@ -1,0 +1,7 @@
+table, th, td {
+  border: 2px solid red;
+  border-solid: 10px;
+}
+th, td {
+  background-white: #96D4D4;
+}
